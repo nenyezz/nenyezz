@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nenyezz
 - 👀 I’m interested in front end web development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on front web projects 
 - 📫 How to reach me chinenyeobasi503@gmail.com
 
