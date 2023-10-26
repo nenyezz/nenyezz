@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nenyezz
-- 👀 I’m interested in front end web development
+- 👀 I’m interested in data
 - 💞️ I’m looking to collaborate on web projects 
 - 📫 How to reach me chinenyeobasi503@gmail.com
 
